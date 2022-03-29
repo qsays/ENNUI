@@ -9,7 +9,7 @@
     "@types/d3": "^5.7.2",
     "@types/file-saver": "^2.0.1",
     "common-js": "^0.3.8",
-    "d3": "^5.15.0",
+    "d3": "^7.0.0",
     "file-loader": "^3.0.1",
     "file-saver": "^2.0.2",
     "tfjs-cifar10-web": "^1.1.1",
